@@ -5,7 +5,7 @@
 - I don't actually know any coding languages. :thumbsup: 
 
 If you want to reach out for any reason, please feel free to find me on discord @paiuxfluens#0008. 
-You can join discord.gg/ranboo to share a server with me. 
+You can join <a href="discord.gg/ranboo">discord.gg/ranboo</a> to share a server with me. 
 
 <!---
 paiuxfluens/paiuxfluens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
