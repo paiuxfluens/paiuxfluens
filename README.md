@@ -1,6 +1,6 @@
 👋 Hi, I’m paiux!!
 - I'm just a funky fella doing my best :D 
-- I'm here because I admin a large Discord server and we have certain needs that I am doing my best to fulfill.
+- I'm here because I admin some large servers and manage various bots, and I'm doing my best to fulfill our communities' needs.
 - I am mostly writing CCs for YAGPDB. 
 - I don't actually know any coding languages. :thumbsup: 
 
